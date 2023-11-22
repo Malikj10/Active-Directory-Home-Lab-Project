@@ -12,7 +12,7 @@ This repository contains steps on how i set up a basic home lab running Active D
 [Windows 10 iso](https://www.microsoft.com/en-us/software-download/windows10ISO)
 [Windows Server 2019](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
 
-## Create a new virtual machine by clicking on "New" in VirtualBox, naming it "Domain Controller," and selecting the "Windows Server 2019" ISO file as the boot media.
+
 ## Create a new virtual machine by clicking on "New" in VirtualBox, naming it "Domain Controller," and selecting the "Windows Server 2019" ISO file as the boot media.
 
 ![](a)
@@ -25,25 +25,7 @@ This repository contains steps on how i set up a basic home lab running Active D
 
 ![](a)
 
-##  Install Server 2019 on the virtual machine and assign IP addressing for the internal network.
-
-![](a)
-
-![](a)
-##  Name the server and install Active Directory to create the domain.
-![](a)
-
-![](a)
-
-##  Configure routing so that clients on the private network can access the internet through the domain controller.
-
-![](a)
-
-![](a)
-
-![](a)
-
-##  Set up DHCP on the domain controller.
+##  Install Server 2019 on the virtual machine and configure server roles eg. AD, DHCP, Remote Access
 ![](a)
 
 ![](a)
