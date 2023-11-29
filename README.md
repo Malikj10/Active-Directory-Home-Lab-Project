@@ -1,9 +1,9 @@
 # Active-Directory-Home-Lab-Project
 # Basic Home Lab Running Active Directory
 
-The Goal of this project was to demonstrate an understanding of Active directory while setting up a virtual environemtn with 1000 users. This is similiar to something that would be established at an organization or school.
+The Goal of this project was to demonstrate an understanding of Active directory while setting up a virtual environment with 1000 users. This is similiar to something that would be established at an organization or school.
 
-This repository contains steps on how i set up a basic home lab running Active Directory following a tutorial by [Josh Madakor](https://www.youtube.com/@JoshMadakor)
+This repository contains steps on how I set up a basic home lab running Active Directory following a tutorial by [Josh Madakor](https://www.youtube.com/@JoshMadakor)
 
 ## Diagram
 ![Diagram](https://github.com/Malikj10/Active-Directory-Home-Lab-Project/blob/main/1.Network%20Infrastructure.png)
